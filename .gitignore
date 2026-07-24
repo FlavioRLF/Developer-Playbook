@@ -1,0 +1,27 @@
+# Sistemas operacionais e editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Arquivos locais e segredos
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.jks
+
+# Artefatos comuns
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+target/
+build/
+dist/
+coverage/
+.coverage

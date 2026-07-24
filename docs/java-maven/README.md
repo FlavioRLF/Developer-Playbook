@@ -1,5 +1,9 @@
 # Java e Maven
 
+## Tópicos
+
+- [Troubleshooting: erro HTTP 403 ao resolver artefato](maven-erro-403-artefato.md)
+
 ## Verificar o ambiente
 
 ```bash

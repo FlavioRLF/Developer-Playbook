@@ -10,6 +10,8 @@ Referência para operações cotidianas e manutenção segura do histórico.
 - [Cherry-pick](cherry-pick.md)
 - [Commits assinados](commits-assinados.md)
 - [Resolução de conflitos](conflitos.md)
+- [Histórico recente com `git log`](git-log-commits-recentes.md)
+- [Troubleshooting: push rejeitado](push-rejeitado.md)
 
 ## Diagnóstico rápido
 

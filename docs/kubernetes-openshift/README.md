@@ -1,5 +1,10 @@
 # Kubernetes e OpenShift
 
+## Tópicos
+
+- [Inventário de releases Helm por namespace](helm-list-por-namespace.md)
+- [Troubleshooting: falha em `helm upgrade`](helm-upgrade-falha.md)
+
 ## Contexto atual
 
 ```bash

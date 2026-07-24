@@ -1,5 +1,9 @@
 # Linux e WSL
 
+## Tópicos
+
+- [Busca de padrões em logs com `grep`](busca-em-logs-com-grep.md)
+
 ## Sistema e recursos
 
 ```bash

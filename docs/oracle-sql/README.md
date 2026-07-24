@@ -1,5 +1,12 @@
 # Oracle SQL
 
+## Tópicos
+
+- [Sequences e `NEXTVAL`](sequences.md)
+- [Ordenação de consultas hierárquicas](ordenacao-e-hierarquia.md)
+- [Impedir ciclos na escolha do pai](hierarquia-sem-ciclos.md)
+- [Troubleshooting: `GROUP BY` inválido](group-by-invalido.md)
+
 ## Identificar sessão e banco
 
 ```sql
